@@ -1,1 +1,1 @@
-# quantuminfo.github.io
+# quantuminfo
